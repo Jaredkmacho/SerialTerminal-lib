@@ -1,0 +1,23 @@
+{
+    "name": "SerialTerminal-lib",
+    "version": "1.0",
+    "keywords": "arduino, library, serial, terminal, ascii, commands, arguments, command-line",
+    "description": "Serial Terminal library derived from the work of Erriez in https://github.com/Erriez/ErriezSerialTerminal adapted for ESP32 Arduino framework and STL",
+    "homepage": "https://github.com/Jaredkmacho/SerialTerminal-lib.git",
+    "license": "MIT",
+    "authors": {
+        "name": "Jaredkmacho",
+        "email": "jaredkmacho@gmail.com",
+        "url": "https://github.com/Jaredkmacho",
+        "maintainer": true
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Jaredkmacho/SerialTerminal-lib.git",
+        "branch": "master"
+    },
+    "frameworks": "arduino",
+    "platforms": [
+        "espressif32"
+    ]
+}
