@@ -33,7 +33,6 @@
  * @brief SerialTerminal constructor.
  * @param uart_nr UART peripheral number default 0
  * @param newLineChar default \\n
- * @param delimiterChar default single space
  * */
 SerialTerminal::SerialTerminal(int uart_nr, char newLineChar) :
     HardwareSerial(uart_nr),
